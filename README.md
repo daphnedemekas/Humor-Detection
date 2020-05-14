@@ -1,4 +1,4 @@
-# NLP-Project
+# Humor Detection
 Assessing the Funniness of Edited News Headlines (SemEval-2020 Task 7)
 
 ## To Run Task 1 and 2 using XGB:
